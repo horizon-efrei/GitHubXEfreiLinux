@@ -5,6 +5,13 @@ MARA Lucas
 Refresh de la liste
 GuillaumeVDN
 >>>>>>> ee014d69b561e93b9d04de80fd7bea6ecdc6b562
+<<<<<<< HEAD
 =======
 VincentNOURY.txt
 >>>>>>> f83c82f (Fixed my mistakes)
+=======
+>>>>>>> dfe9b19dee2a5cdaeed39fbad241005558d41c2d
+VincentNOURY
+
+----- oldschool is here
+>>>>>>> 9d54181 (oldschool_is_here)

@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 MARA Lucas
 =======
 Refresh de la liste
@@ -23,3 +24,8 @@ GuillaumeVDN
 MARA Lucas
 Refresh de la liste
 >>>>>>> 27d89f4 (Test fix 2)
+=======
+VincentNOURY
+GuillaumeVDN
+MARA Lucas
+>>>>>>> fa9ee80 (cleaned presence-conference)

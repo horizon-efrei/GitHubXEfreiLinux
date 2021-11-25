@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 MARA Lucas
 =======
 Refresh de la liste
@@ -15,3 +16,10 @@ VincentNOURY
 
 ----- oldschool is here
 >>>>>>> 9d54181 (oldschool_is_here)
+=======
+Refresh de la liste
+VincentNOURY.txt
+GuillaumeVDN
+MARA Lucas
+Refresh de la liste
+>>>>>>> 27d89f4 (Test fix 2)

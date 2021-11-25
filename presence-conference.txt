@@ -32,10 +32,14 @@ Refresh de la liste
 >>>>>>> 86ad526 (Add Mattherix)
 VincentNOURY
 GuillaumeVDN
+<<<<<<< HEAD
 MARA Lucas
 <<<<<<< HEAD
 >>>>>>> fa9ee80 (cleaned presence-conference)
 =======
+=======
+MARA Lucas 19:30
+>>>>>>> ad71b29 (end)
 GuillaumeVDN
 VincentNOURY
 Mattherix

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 MARA Lucas
+=======
+Refresh de la liste
+GuillaumeVDN
+>>>>>>> ee014d69b561e93b9d04de80fd7bea6ecdc6b562
